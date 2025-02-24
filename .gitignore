@@ -1,2 +1,4 @@
-/data/*
-data.txt
+__pycache__
+
+# output
+data.json

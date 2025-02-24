@@ -19,6 +19,10 @@ import platform
 import sys
 import re
 import logging
+import glob
+import json
+
+# own imports
 from constants import NON_JAPANESE_CHARACTER, KANJI_FULL, DATA_SRC, OUTPUT
 
 # ---------------------------------------
@@ -54,22 +58,37 @@ def ReadKanji(path: str, results: list) -> None:
             candidate = line.split(" ")[0]
             word = re.sub(NON_JAPANESE_CHARACTER, "", candidate)
             if re.findall(KANJI_FULL, word):
-                word = "\"" + word + "\","
                 results.append(word)
             else:
                 logging.debug(f"Discarding {candidate}")
 
+def initialiseOutput() -> dict:
+    output = {}
+    for i in range(15, 24):
+        output[f"ch{i}"] = []
+    
+    return output
+
 def main():
-    word_list = []
+    output = initialiseOutput()
+    
+    FILE_PATH = glob.glob("./data/*.txt")
+    
+    for path in FILE_PATH:
+        word_list = []
+        ReadKanji(path, word_list)
+        
+        # append to chapter
+        for chapter in output:
+            if chapter in path:
+                output[chapter] = word_list.copy()
+                word_list = []
+                break
 
-    ReadKanji(DATA_SRC, word_list)
-
-    with open(OUTPUT, "w", encoding='utf-8') as the_file:
-        for word in word_list:
-            the_file.write(word + "\n")
-
-    # clean word list
-    word_list = []
+    json_object = json.dumps(output, indent=2)
+    
+    with open("data.json", "w", encoding="utf-8") as the_file:
+        the_file.write(json_object)
 
 if __name__ == '__main__':
     # check that the console is in utf-8

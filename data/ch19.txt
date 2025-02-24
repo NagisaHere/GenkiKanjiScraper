@@ -1,0 +1,157 @@
+#separator:tab
+#html:false
+下さる	(honorific/respectful) to give, to confer, to bestow	くださる	Godan verb - -aru special class	to kindly do for one, to oblige, to favour, to favor	Honorific or respectful (sonkeigo) language					
+花火	fireworks	花火[はなび]	Noun							
+大工	carpenter	大工[だいく]	Noun							
+将棋	shogi, Japanese chess	将棋[しょうぎ]	Noun							
+研究	study, research, investigation	研究[けんきゅう]	Noun, Suru verb, Transitive verb							
+工場	factory, plant, mill, workshop	工場[こうじょう]	Noun							
+卒業する	graduation, completion (of a course)	卒業[そつぎょう]	Noun, Suru verb, Intransitive verb	moving on (from), outgrowing (something), leaving (a group, company, etc.), quitting						
+冬	winter	冬[ふゆ]	Noun, Adverb 							
+春	spring, springtime	春[はる]	Noun, Adverb 	New Year; prime (of life), height (of one's prosperity), heyday; adolescence, puberty; sexuality, sexual desire						
+花見	cherry blossom viewing, flower viewing	花見[はなみ]	Noun, Suru verb							
+漢字	kanji, Chinese character	漢字[かんじ]	Noun							
+送る	to take or escort (a person somewhere), to send (a thing)	送[おく]る	Godan verb with ru ending, Transitive verb	to take or escort (a person somewhere), to see off (a person); to bid farewell (to the departed), to bury; to spend (time), to live one's life; to pass (down the line); to affix okurigana						
+怒る	to get angry, to get mad	怒[おこ]る	Godan verb with ru ending, Intransitive verb	to tell someone off, to scold; to be angular, to be square						
+思い出す	to recall, to remember, to recollect	思[おも]い 出[だ]す	Godan verb with su ending, Transitive verb							
+姉	older sister, elder sister	姉[あね]	Noun							
+敬語	honorific language, honorific, term of respect, polite expression	敬語[けいご]	Noun							
+話	talk, speech, chat, conversation	話[はなし]	Noun	topic, subject; discussions, negotiation, argument; rumor, talk, hearsay; tale, story, fable; circumstances, particulars						
+生け花	ikebana, Japanese art of flower arrangement	生[い]け 花[ばな]	Noun	fresh flower, natural flower						
+呼ぶ	to call out (to/one's name), to invite (e.g. personをeventに)	呼[よ]ぶ	Godan verb with bu ending, Transitive verb	to summon (a doctor, etc.); to invite; to designate, to name, to brand; to garner (support, etc.), to gather; to take as one's wife						
+兄	older brother, elder brother	兄[あに]	Noun							
+決まる	to be decided, to be settled, to be fixed, to be arranged	決[き]まる	Godan verb with ru ending, Intransitive verb	to be unchanging, to be the same (as always), to be fixed, to be set; to be a fixed rule, to be destined, to be a convention, to be a custom, to be common knowledge; to be well executed (of a manoeuvre in a sport, game, etc.), to go well, to succeed, to connect (of a punch); to look good (of clothing), to look sharp, to be stylish, to suit one, to be held in place (of a hairdo); to be struck and held (of a pose in kabuki)						
+懐かしい	dear (old), fondly-remembered, beloved, missed, nostalgic	懐[なつ]かしい	I-adjective 							
+引っ越す	to move (house), to change residence	引[ひ]っ 越[こ]す	Godan verb with su ending, Intransitive verb							
+出張	business trip, official trip	出張[しゅっちょう]	Noun, Suru verb, Intransitive verb							
+多分	perhaps, probably	たぶん	Adverb 	generous, many, much, great						
+毎朝	every morning	毎朝[まいあさ]	Noun, Adverb 							
+部長	head (chief, director) of a section or department	部長[ぶちょう]	Noun	head of a (school) club, head of a (school) team						
+兄弟	siblings, brothers and sisters	兄弟[きょうだい]	Noun	brothers; siblings-in-law, brothers-in-law, sisters-in-law; mate, friend						
+不便	inconvenience, inexpediency, unhandiness	不便[ふべん]	Noun, Na-adjective 							
+遅れる	to be late, to be delayed, to fall behind schedule, to be overdue	遅[おく]れる	Ichidan verb, Intransitive verb	to fall behind (in a race, one's studies, etc.), to lag behind, to be behind (the times); to be bereaved of, to be preceded by (someone) in death; to be slow (of a clock or watch)						
+寄る	to stop (by) (e.g. placeに...), to approach/draw near	寄[よ]る	Godan verb with ru ending, Intransitive verb	to gather (in one place), to come together, to meet; to stop by (while on one's way to another place), to drop by, to make a short visit; to grow old, to grow high (number, etc.); to grow (wrinkly); to lean against, to recline on; to push one's opponent while holding their belt; to decide on a price and come to a deal; to be swayed by (a person), to yield to						
+多い	many, numerous, a lot	多[おお]い	I-adjective 	large amount of, large quantity of, a lot, much; frequent, common						
+素質	aptitude, talent, qualities	素質[そしつ]	Noun	makings of, nature, character, temperament						
+お礼	expression of thanks/gratitude	お 礼[れい]	Noun	manners, etiquette; bow; reward, gift; ceremony, ritual	Polite (teineigo) language					
+晴れる	to clear up, to clear away, to be sunny, to stop raining	晴[は]れる	Ichidan verb, Intransitive verb	to refresh (e.g. spirits); to be cleared (e.g. of a suspicion); to be dispelled, to be banished						
+一昨日	day before yesterday	一昨日[おととい]	Noun, Adverb 							
+秋	autumn, fall	秋[あき]	Noun, Adverb 							
+工学	engineering	工学[こうがく]	Noun							
+語彙	vocabulary, lexicon, lexis, terminology	語彙[ごい]	Noun							
+不安	anxiety, uneasiness, worry, apprehension, fear, insecurity, suspense	不安[ふあん]	Noun, Na-adjective 							
+工事	construction work	工事[こうじ]	Noun, Suru verb, Transitive verb, Intransitive verb							
+訪問	call, visit (formal)	訪問[ほうもん]	Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'							
+性格	character (of a person), personality, disposition, nature	性格[せいかく]	Noun	characteristics, nature (of a thing, event, etc.)						
+研修	training (esp. in-service), induction course	研修[けんしゅう]	Noun, Suru verb, Transitive verb							
+促進	promotion, acceleration, encouragement, facilitation, spurring on	促進[そくしん]	Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'							
+様子	state, situation, manner Not 状態	様子[ようす]	Noun	appearance, look, aspect; sign, indication						
+問う	to question	問[と]う	Godan verb with u ending , Transitive verb	to blame (someone) for, to accuse of, to pursue (question of responsibility), to charge with; to care about, to regard as important; to call into question, to doubt, to question						
+間違い	mistake, error, blunder	間違[まちが]い	Noun	accident, mishap, trouble; improper conduct (e.g. between man and woman), indiscretion						
+突然	abrupt, sudden, unexpected	突然[とつぜん]	Noun which may take the genitive case particle 'no', Na-adjective , Adverb 							
+悩み	trouble(s), worry, distress, sorrows, anguish, agony, problem	悩[なや]み	Noun							
+青春	youth, springtime of life, adolescent	青春[せいしゅん]	Noun, Noun which may take the genitive case particle 'no'							
+少々	just a minute, a few seconds, small quantity	少々[しょうしょう]	Adverb , Noun							
+姉妹	sisters	姉妹[しまい]	Noun							
+真面目	serious, honest, sober, grave, earnest, steady	真面目[まじめ]	Na-adjective , Noun							
+漢方薬	Chinese herbal medicine	漢方薬[かんぽうやく]	Noun							
+経つ	to pass (of time), to elapse	経[た]つ	Godan verb with tsu ending, Intransitive verb							
+研ぐ	to sharpen, to hone, to whet, to grind	研[と]ぐ	Godan verb with gu ending, Transitive verb	to wash (rice); to scour, to polish, to burnish						
+冬休み	winter vacation, winter holidays	冬休[ふゆやす]み	Noun							
+知り合う	to get to know each other, to make acquaintance	知[し]り 合[あ]う	Godan verb with u ending, Intransitive verb							
+原稿	manuscript, copy, draft, notes, contribution	原稿[げんこう]	Noun							
+研究者	researcher	研究者[けんきゅうしゃ]	Noun							
+花粉症	hay fever, pollinosis (allergy to pollen)	花粉症[かふんしょう]	Noun							
+質屋	pawnshop	質屋[しちや]	Noun							
+皆様	everyone	皆様[みなさま]	Noun		Honorific or respectful (sonkeigo) language					
+多数決	majority decision, majority vote, majority rule	多数決[たすうけつ]	Noun							
+奥様	your/someone's wife (polite), his wife, married lady, madam	奥様[おくさま]	Noun		Polite (teineigo) language					
+暖冬	mild winter, warm winter	暖冬[だんとう]	Noun							
+卒業式	graduation ceremony, commencement	卒業式[そつぎょうしき]	Noun							
+ようこそ	welcome!, nice to see you!	ようこそ								
+探究	research, investigation, enquiry, inquiry, study (e.g. philosophical)	探究[たんきゅう]	Noun, Suru verb, Transitive verb							
+春夏秋冬	spring, summer, autumn (fall) and winter, the four seasons	春夏秋冬[しゅんかしゅうとう]	Noun, Adverb 							
+秋分	autumnal equinox, autumn equinox, fall equinox	秋分[しゅうぶん]	Noun							
+春分	vernal equinox, spring equinox	春分[しゅんぶん]	Noun							
+お世話になる	to be in someone's care	お 世話[せわ]になる	Expressions , Godan verb with ru ending	to receive favor, to receive assistance, to receive help, to be looked after, to be taken care of, to become dependent (on), to become much obliged (to someone), to become indebted	Polite (teineigo) language					
+大卒	university graduate, having graduated from university	大卒[だいそつ]	Noun							
+f762c94f684b479cb0b0919ab6ee74bf-ao-1										
+f762c94f684b479cb0b0919ab6ee74bf-ao-2										
+f762c94f684b479cb0b0919ab6ee74bf-ao-3										
+f762c94f684b479cb0b0919ab6ee74bf-ao-4										
+f762c94f684b479cb0b0919ab6ee74bf-ao-5										
+f762c94f684b479cb0b0919ab6ee74bf-ao-6										
+f762c94f684b479cb0b0919ab6ee74bf-ao-7										
+f762c94f684b479cb0b0919ab6ee74bf-ao-8										
+f762c94f684b479cb0b0919ab6ee74bf-ao-9										
+f762c94f684b479cb0b0919ab6ee74bf-ao-10										
+f762c94f684b479cb0b0919ab6ee74bf-ao-11										
+24ab7032120b4b09bbf9f241533d3c9d-ao-1										
+24ab7032120b4b09bbf9f241533d3c9d-ao-2										
+24ab7032120b4b09bbf9f241533d3c9d-ao-3										
+24ab7032120b4b09bbf9f241533d3c9d-ao-4										
+24ab7032120b4b09bbf9f241533d3c9d-ao-5										
+24ab7032120b4b09bbf9f241533d3c9d-ao-6										
+24ab7032120b4b09bbf9f241533d3c9d-ao-7										
+24ab7032120b4b09bbf9f241533d3c9d-ao-8										
+24ab7032120b4b09bbf9f241533d3c9d-ao-9										
+24ab7032120b4b09bbf9f241533d3c9d-ao-10										
+24ab7032120b4b09bbf9f241533d3c9d-ao-11										
+24ab7032120b4b09bbf9f241533d3c9d-ao-12										
+お子さん	your/someone's child (polite)	お子[こ]さん								
+中学生	middle school (y7-9) student	中学生[中学生]								
+こちら	this way, here (polite)	こちら								
+どちら	where (polite)	どちら								
+種類	a kind/sort, variety	種類[しゅるい]								
+怠け者	lazy person	怠[なま]け者[もの]								
+恥ずかしがりや	shy person	恥[は]ずかしがりや								
+仲がいい	be on good/close terms	仲[なか]がいい								
+かける (Not hang)	to sit down (seatに)	かける (Not hang)								
+もてる	to be popular (in terms of romantic interest) (people に)	もてる								
+それで	then, therefore	それで								
+なぜ	why (colloquial of どうして)	なぜ								
+本当は	in fact; originally	本当[ほんとう]は								
+まだ	still	まだ								
+〜名様	party of ... people	〜名様[めいさま]								
+よろしくを伝えください	please give my best regards to...	よろしくを伝[つた]えください								
+春巻	spring roll	春巻[はるまき]								
+秋学期	fall semester	秋学期[あきがっき]								
+〜様	Mr./Ms.	〜様[さま]								
+お客様	customer (respectful)	お客様[きゃくさま]								
+不景気	recession	不景気[ふけいき]								
+水不足	lack of water	水不足[みずぶそく]								
+姉妹都市	sister city	姉妹都市[しまいとし]								
+漢和辞典	kanji dictionary	漢和辞典[かんわじてん]								
+究める	to investigate thoroughly	究[きわ]める								
+質問	question	質問[しつもん]								
+質がいい	good quality	質[しつ]がいい								
+多くの〜	many (things)	多[おお]くの〜								
+いかが	how (polite version of どう)	いかが								
+大切にする	to take good care of not 世話になる	大切[たいせつ]にする								
+What is the sentence structure for giving respectful advice?	お＋verb stem + ください e.g.　チケットをお取りください。									
+t/f for sentences with お+verb+ください, it is used to make requests (e.g. 塩をお取りください (please give me the salt) is valid)	false sentences with ください are courteously phrased commands (i.e. encouragemenet for doing action for your own good).  given the example sentence, you should say 塩を取っていただけませんか									
+with MOST するcompound verbs, between お and ご, what prefix is used?	ご e.g. 注意する (to be careful of) > ご注意ください									
+〜てくれてありがとう what does the above sentence structure mean, and make an example sentence.	expressing gratitude to someone for something they have done. 推薦状を書いてくれてありがとうございます thank you for writing a letter of recommendation for me									
+"how would you express ""I'm glad that x is/was the case"""	〜てよかった 日本語を勉強してよかった。 I am glad I studied Japanese									
+"how would you express ""something is supposed to be the case"""	〜はずです 今日は日曜日だから、銀行は閉まっているはずです the banks must be closed because it is a Sunday									
+when would you use 〜はずです	When you think something is likely/true, but you lack conclusive evidence									
+"t/f you can use 〜はずです when you are ""supposed"" to do something because of duty, responsibility and law"	false. You cannot.									
+what is the past form of はずです	はずでした									
+what is the conjugation (verb, i-adj, na-adj, noun) for 〜はずです										
+when is ご usually used for stem words (e.g. 注意する)?	For onyomi reading of words (words from chinese)									
+what is the exception for kunyomi する verbs when using お・ご〜ください?	Use なさってください 練習なさってください									
+How would you write the expression for thanking someone in a formal/polite/honorific situation?	て形＋くださってありがとうございました e.g. 紹介してくださってありがとうございます。									
+80f9db11e3a741b8b541184fab92361b-ao-1										
+80f9db11e3a741b8b541184fab92361b-ao-2										
+80f9db11e3a741b8b541184fab92361b-ao-3										
+80f9db11e3a741b8b541184fab92361b-ao-4										
+80f9db11e3a741b8b541184fab92361b-ao-5										
+80f9db11e3a741b8b541184fab92361b-ao-6										
+80f9db11e3a741b8b541184fab92361b-ao-7										
+80f9db11e3a741b8b541184fab92361b-ao-8										
+80f9db11e3a741b8b541184fab92361b-ao-9										
+80f9db11e3a741b8b541184fab92361b-ao-10										
+What is the difference between それで・そして・それから？	given 昨日、寝ませんでした。  それで- and therefore (introducing a consequence)　それで、眠いです そして - in addition そして、朝ご飯も食べなかったんです それから - and then (adding another item) 大学に行って、それから家に帰って寝ます。									
+how would you convert from normal たら form to honorific form?	たら＞ましたら  e.g. 決まったら、呼んでください。 becomes お決まりになりましたら、お呼びください。									
+What is the honorific version of 誰？	どなた									
+what is the honorific version of 子供？	お子様									

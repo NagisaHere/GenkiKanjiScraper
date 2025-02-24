@@ -1,0 +1,66 @@
+#separator:tab
+#html:false
+喋る	to talk, to chat, to chatter	喋[しゃべ]る	Godan verb with ru ending, Intransitive verb				
+足跡	footprints	足跡[あしあと]	Noun	record of page visitors (e.g. in social networking sites)			
+死体	dead body, corpse, cadaver, carcass	死体[したい]	Noun				
+紅葉	autumn colours, fall colors, leaves changing color (colour)	紅葉[こうよう]	Noun, Suru verb	leaves turning red, red leaves; leaves turning yellow, yellow leaves; (Japanese) maple (Acer japonicum); venison; layered colors in garments, resembling autumn colors			
+竹	bamboo (any grass of subfamily Bambusoideae)	竹[たけ]	Noun	middle (of a three-tier ranking system)			
+広告	advertisement, advertising	広告[こうこく]	Noun, Suru verb, Transitive verb	announcement, notice			
+駐車	parking (e.g. car)	駐車[ちゅうしゃ]	Noun, Suru verb, Intransitive verb, Noun which may take the genitive case particle 'no'				
+地獄	hell	地獄[じごく]	Noun				
+遠足	excursion, outing, trip	遠足[えんそく]	Noun, Suru verb				
+自然	nature	自然[しぜん]	Noun	natural, spontaneous, automatic; naturally, spontaneously, automatically			
+死刑	death penalty, capital punishment	死刑[しけい]	Noun				
+地平線	horizon (related to land)	地平線[ちへいせん]	Noun				
+鯨	whale (Cetacea spp.)	くじら	Noun				
+拝借	borrowing (humble/polite)	拝借[はいしゃく]	Noun, Suru verb, Transitive verb		Humble (kenjougo) language, Polite (teineigo) language		
+各地	every place, various places	各地[かくち]	Noun, Noun which may take the genitive case particle 'no'				
+死去	death, decease, passing away	死去[しきょ]	Noun, Suru verb, Intransitive verb				
+即死	instant death	即死[そくし]	Noun, Suru verb, Intransitive verb				
+魚介類	marine products, seafood, fish and shellfish	魚介類[ぎょかいるい]	Noun				
+魚類	fish, fishes (as a class of an animal)	魚類[ぎょるい]	Noun				
+死者	ししゃ	死者	the dead				
+初夏	しょか	初夏	early summer				
+金魚	きんぎょ	金魚	goldfish				
+人魚	にんぎょ	人魚	mermaid				
+東寺	とうじ	東寺	touji temple				
+寺院	じいん	寺院	sacred building				
+禅寺	ぜんでら	禅寺	zen temple				
+広島	ひろしま	広島	Hiroshima				
+借地	しゃくち	借地	rented land				
+借家	しゃくや	借家	rented house				
+借金	しゃっきん	借金	debt				
+走り書き	はしりがき	走り書き	hasty writing				
+脱走	だっそう	脱走	escape from a prison				
+市場	いちば	市場	market				
+電池	でんち	電池	battery				
+保険	ほけん	保険	insurance				
+締め切り	しめきり	締め切り	deadline				
+保険に入る	ほけんにはいる	保険に入る	to buy insurance				
+What is the difference between と思います と思っています	The first implies the decision is made in the moment The second implies the decision was already made						
+what does -ておく describe?	action performed in preparation for something. e.g. 明日は試験があるので、今夜勉強しておきます Because there is an exam tomorrow, I will study (for it) tonight.						
+What are noun qualifier sentences?	"known as a big noun phrase takes the form of ""qualifier sentence + noun"" used to add characteristics to nouns (e.g. its location, adjectives, verbs) e.g. 昨日買った + 本 (the book I bought yesterday)"						
+広場	ひろば	広場	Plaza				
+広大な	こうだいな	広大な	very large				
+社寺	しゃじ	社寺	shrines and temples				
+寺参り	てらまいり	寺参り	ritual visits to a temple				
+尼寺	あまでら	尼寺	nunnery				
+自給自足	じきゅうじそく	自給自足	self-sufficiency				
+注解	ちゅうかい	注解	explanatory notes, annotations				
+再建する	さいけんする	再建する	to rebuild				
+建設する	けんせつする	建設する	to construct				
+深海魚	しんかいぎょ	深海魚	deep sea fish				
+熱帯魚	ねったいぎょ	熱帯魚	tropical fish				
+飛び魚	とびうお	飛び魚	flying fish				
+雑魚	ざこ	雑魚	small fry				
+`一日目	いちにちめ	`一日目	the first day				
+二日目	ふつかめ	二日目	second day				
+一日中	いちにちじゅう	一日中	all day long				
+意志形	いしけい	意志形	volitionary form				
+Translate to Japanese (use of ておく): I have to clean as my friend is coming.	友達が来るので、部屋を掃除しておかなきゃいけません						
+What is the colloquial version of ておく?	とく e.g. ホテルを予約しとく						
+Write: Buy something in preparation for the future	買っておいて						
+Write: Buy something in preparation for the future (colloquial)	買っといて						
+渡る	To cross (e.g. a bridge)	渡[わた]る	godan verb, intransitive verb				
+トロッコ列車	small train (usu. for tourists)	トロッコ列車[れっしゃ]					
+島	island	島[しま]					

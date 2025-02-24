@@ -1,0 +1,111 @@
+#separator:tab
+#html:false
+影响	一点儿影响也没有。			influence	yìdiǎnr yǐngxiǎng yě méiyǒu 。	一點兒影響也沒有。
+随分	very, extremely, surprisingly, considerably, awfully, terribly	ずいぶん	Adverb , Adverb taking the 'to' particle	terrible, horrid, contemptible, reprehensible; remarkable, extraordinary		
+髭	moustache, beard, whiskers	ひげ	Noun	whiskers (on a cat, etc.), feelers (on an insect, etc.), (chin) tuft; shadow (on a candlestick chart)		
+名字	surname, family name, last name	名字[みょうじ]	Noun			
+赤ちゃん	baby, infant	赤[あか]ちゃん	Noun			
+表紙	cover (of a book, magazine, etc.), binding	表紙[ひょうし]	Noun	to appear on the cover of a magazine		
+写真	photograph, photo, picture, snapshot, snap	写真[しゃしん]	Noun			
+道具	tool, implement, instrument, utensil, apparatus, device	道具[どうぐ]	Noun	means; furniture		
+発音	pronunciation	発音[はつおん]	Noun, Suru verb	production of sound		
+紙	paper	紙[かみ]	Noun			
+鍵	key	鍵[かぎ]	Noun	lock; key (to a problem), clue		
+俳句	haiku, 17-mora poem, usu. in 3 lines of 5, 7 and 5 morae	俳句[はいく]	Noun			
+展覧会	exhibition	展覧会[てんらんかい]	Noun			
+自分	myself, yourself, oneself, himself, herself	自分[じぶん]	Pronoun	I, me; you		
+習慣	habit	習慣[しゅうかん]	Noun	(social) custom, practice, convention		
+主語	subject (of a sentence)	主語[しゅご]	Noun			
+火事	fire, conflagration	火事[かじ]	Noun			
+集める	to collect, to assemble, to gather	集[あつ]める	Ichidan verb, Transitive verb			
+強い	strong, potent, competent, domineering, tough	強[つよ]い	I-adjective 	strong, brawny, powerful, healthy, rugged; good (at), skilled, knowledgeable; being able to handle, know how to deal (with), durable (against), resistant (to), resilient; firm, rigid, solid; intense, strong, fierce, high; dependable, trustworthy		
+例えば	for example, for instance, e.g.	例[たと]えば	Adverb 			
+品物	goods, article, thing	品物[しなもの]	Noun			
+少ない	few, a little, scarce, insufficient, seldom	少[すく]ない	I-adjective 			
+表	the front, surface	表[おもて]	Noun	"face (i.e. the visible side of an object); front (of a building, etc.), obverse side (i.e. ""head"") of a coin; outside, exterior; appearance; public; first half (of an inning), top (of an inning); cover (for tatami mats, etc.); foreground; Omotesenke school of tea ceremony"		
+練習	practice, training, drill, (an) exercise, workout Not 訓練	練習[れんしゅう]	Noun, Suru verb, Transitive verb			
+写す	to copy, transcribe, to duplicate, to reproduce, to imitate, to trace	写[うつ]す	Godan verb with su ending, Transitive verb	to describe; to film, to picture, to photograph		
+慣れる	to get used to, to grow accustomed to, to become familiar with	慣[な]れる	Ichidan verb, Intransitive verb	to become skilled in, to become experienced at; to become tame, to become domesticated; to get used to doing		
+戻る	to turn back (e.g. half-way)	戻[もど]る	Godan verb with ru ending, Intransitive verb	to return, to go back; to recover (e.g. something lost), to be returned; to rebound, to spring back		
+足りる	to be sufficient, to be enough	足[た]りる	Ichidan verb, Intransitive verb	to be worth doing, to be worthy of, to deserve; to do (the job), to serve, to answer		
+生まれる	to be born	生[う]まれる	Ichidan verb, Intransitive verb			
+ご主人	your husband, her husband	ご 主人[しゅじん]	Noun		Honorific or respectful (sonkeigo) language	
+脱ぐ	to take off (clothes, shoes, etc.), to undress	脱[ぬ]ぐ	Godan verb with gu ending, Transitive verb			
+危ない	dangerous, risky, hazardous, perilous, precarious 剣呑じゃない	危[あぶ]ない	I-adjective 	in danger, in jeopardy, critical, grave, at risk; uncertain, unreliable, insecure, unsteady, doubtful; close (call), narrow (escape); look out!, watch out!, be careful!		
+ニュース	news	ニュース	Noun			
+芸術	art, the arts	芸術[げいじゅつ]	Noun			
+離婚	divorce	離婚[りこん]	Noun, Suru verb, Intransitive verb			
+スプーン	spoon	スプーン	Noun			
+文字	letter (of alphabet), character	文字[もじ]	Noun	writing		
+活用	conjugation, practical use, application	活用[かつよう]	Noun, Suru verb, Transitive verb	conjugation, inflection		
+歩道	footpath, walkway, sidewalk, pavement	歩道[ほどう]	Noun			
+秘密	secret, secrecy, confidentiality, privacy	秘密[ひみつ]	Noun, Na-adjective , Noun which may take the genitive case particle 'no'	mystery; secret (e.g. to success); esoteric teachings		
+羨ましい	envious, jealous	羨[うらや]ましい	I-adjective 	enviable (position, etc.)		
+物価	prices of commodities, prices (in general), cost-of-living	物価[ぶっか]	Noun			
+発明	invention	発明[はつめい]	Noun, Suru verb	intelligent, clever, smart; making sense (of something), understanding		
+進歩	progress, advance, improvement, development	進歩[しんぽ]	Noun, Suru verb, Intransitive verb			
+作品	work (e.g. book, film, composition, etc.), opus, performance, production	作品[さくひん]	Noun			
+首相	prime minister, chancellor (Germany, Austria, etc.), premier	首相[しゅしょう]	Noun			
+給料	salary, wages, pay	給料[きゅうりょう]	Noun			
+影響	influence, effect, impact	影響[えいきょう]	Noun, Suru verb, Intransitive verb			
+表現	expression, presentation	表現[ひょうげん]	Noun, Suru verb	representation, notation		
+違い	difference, distinction, discrepancy Not 差別	違[ちが]い	Noun	mistake, error		
+発表する	announcement, publication, presenting, statement, communique, making known, breaking (news story), expressing (one's opinion), releasing, unveiling	発表[はっぴょう]	Noun, Suru verb, Transitive verb			
+完成	completion, perfection, accomplishment	完成[かんせい]	Noun, Suru verb, Transitive verb, Intransitive verb			
+活発な	(describing living things) lively, active, vigorous, animated, brisk	活発[かっぱつ]	Na-adjective , Noun			
+サラリーマン	office worker, company employee, company man, salaryman (stereotypical Japanese office worker)	サラリーマン	Noun			
+出発	departure, leaving, setting off	出発[しゅっぱつ]	Noun, Suru verb, Intransitive verb			
+準備	preparation, arrangements, getting ready, provision, setup, reserving	準備[じゅんび]	Noun, Suru verb, Transitive verb			
+分野	realm, field, sphere, division, branch	分野[ぶんや]	Noun			
+赤字	(being in) the red, deficit	赤字[あかじ]	Noun	red letter, red writing; corrections (by a teacher or proofreader) written in red		
+主婦	housewife, mistress (of the house), homemaker	主婦[しゅふ]	Noun			
+活気	(non living things) energy, vigour, vigor, liveliness, spirit, life, animation	活気[かっき]	Noun			
+梯子	ladder	はしご	Noun	stairs; going to several places in succession (e.g. barhopping)		
+新婚	newly-wed, newly married	新婚[しんこん]	Noun which may take the genitive case particle 'no', Noun, Suru verb			
+数える	to count, to enumerate	数[かぞ]える	Ichidan verb, Transitive verb			
+野球	baseball	野球[やきゅう]	Noun			
+結ぶ	to tie (e.g. a knot), to bind, to link	結[むす]ぶ	Godan verb with bu ending, Transitive verb	to bear (fruit); to close (e.g. deal), to confirm, to conclude; to connect (two distant places); to close tightly, to purse (e.g. lips); to unite (with), to ally, to join hands		
+撃つ	to shoot, to fire	撃[う]つ	Godan verb with tsu ending, Transitive verb			
+集中する	concentration (on a task), focusing one's attention	集中[しゅうちゅう]	Noun, Suru verb, Transitive verb, Intransitive verb	concentration (of population, buildings, power, etc.), centralization, convergence, focus (of a debate, questions, etc.); within a collection of works		
+特集	feature (e.g. newspaper), special edition, report	特集[とくしゅう]	Noun, Suru verb			
+手品	magic (illusion), conjuring, magic trick, conjuring trick, sleight of hand	手品[てじな]	Noun			
+残業	overtime (work)	残業[ざんぎょう]	Noun, Suru verb, Intransitive verb			
+習字	penmanship, calligraphy	習字[しゅうじ]	Noun			
+大文字	uppercase letter, capital letter	大文字[おおもじ]	Noun	"large character, large writing; the (kanji) character ""dai"" meaning ""big""; huge character ""dai"" formed by fires lit on the side of a mountain in Kyoto on August 16 each year"		
+主に	mainly, primarily	主[おも]に	Adverb 			
+宝くじ	lottery	宝[たから]くじ	Noun	lottery ticket		
+持ち主	owner, proprietor, possessor (e.g. of talent, beauty, etc.)	持[も]ち 主[ぬし]	Noun			
+最悪	worst	最悪[さいあく]	Na-adjective , Noun which may take the genitive case particle 'no', Noun	horrible, horrid, awful, terrible; in the worst case, if worst comes to worst		
+真夜中	dead of night, midnight	真夜中[まよなか]	Noun, Adverb 			
+天井	ceiling	天井[てんじょう]	Noun	ceiling price, (price) ceiling		
+ブーツ	boots	ブーツ	Noun			
+コンタクト	contact (lens)	コンタクト	Noun, Suru verb	contact lens		
+何度も	how many times	何度[なんど]	Noun, Adverb 	how many degrees (temperature, angle, etc.)		
+上品な	elegant, refined, polished, stylish, sophisticated	上品[じょうひん]	Na-adjective 	high-quality goods, first-class article		
+混む	to be crowded, to be packed, to be congested, to be thronged (with)	混[こ]む	Godan verb with mu ending, Intransitive verb			
+旅行会社	travel agent, travel agency	旅行会社[りょこうがいしゃ]	Noun			
+パンダ	panda	パンダ	Noun			
+ヒーター	heater	ヒーター	Noun			
+ショッピングモール	shopping mall	ショッピングモール	Noun			
+お歳暮	year-end gift	歳暮[せいぼ]	Noun	end of the year, year end		
+お客さん	guest	お客[きゃく]さん				
+お湯	hot water	お湯[ゆ]				
+電子レンジ	microwave oven	電子[でんし]レンジ				
+都合が悪い	Inconvenient, scheduling conflict NOT 不便	都合が悪い[つごうがわるい]				
+お湯を沸かす	To boil water	お湯を沸かす[おゆをわかす]				
+髪をとかす	To comb one's hair	髪[かみ]をとかす				
+ひげをそる	to shave one's beard	ひげをそる				
+鍵をかける	to lock	鍵[かぎ]をかける				
+化粧する	to put up makeup	化粧[けしょう]する				
+によると	according to	によると				
+に比べて	compared to	に比べて				
+How would you describe 'A, after B'?	Given A happens, then B verb a + てから verb B					
+小野さん	Mr. Ono	小野さん[おのさん]				
+長野	Nagano	長野[ながの]				
+野菜	vegetable	野菜[やさい]				
+表す	to express	表す[あらわす]				
+~の真上	right above...	~の真上[のまうえ]				
+未婚	unmarried	未婚[みこん]				
+婚約者	fiance	婚約者[こんやくしゃ]				
+I hear that (verb, i-adj, na-adj, noun)	話すそうです (dictionary + そうです) 寂しそうです (stem + そうです) 綺麗だそうです (stem + だそうです) 学生だそうです (noun + だそうです)					
+use cases of たら	To show humbleness, hesitation, politeness in inviting/requesting contexts ご迷惑じゃなかったら、助けていただけませんか？ If A is fulfilled (uncertain), then B will occur 宿題が終わったら、遊びに行きましょう Describing a condition that is unreal もし猫だったら、一日中寝ているでしょう Emphasise speakers expectation (further emphasised with ん or の) 日本語の学生だったら、この漢字、知っているでしょう					

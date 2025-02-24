@@ -1,0 +1,108 @@
+#separator:tab
+#html:false
+全部	ぜんぶ	全部	All	N-adv, n-t	entire, whole, altogether		
+動物	どうぶつ	動物	animal	n			
+毎週	まいしゅう	毎週	every week	N-adv, n-t			
+道	みち	道	road				
+全て	everything, all, the whole	全て	Noun, Noun which may take the genitive case particle 'no'	entirely, completely, wholly, all			
+文化	culture, civilization, civilisation	文化[ぶんか]	Noun	Bunka era (1804.2.11-1818.4.22)			
+方言	dialect, provincialism	方言[ほうげん]	Noun				
+部屋	room, chamber	部屋[へや]	Noun	apartment, flat, pad; stable			
+世界	the world, society, the universe	世界[せかい]	Noun	sphere, circle, world; world-renowned, world-famous; realm governed by one Buddha, space			
+教会	church, congregation	教会[きょうかい]	Noun				
+台風	typhoon, hurricane	台風[たいふう]	Noun				
+温室	greenhouse, hothouse, conservatory, glasshouse	温室[おんしつ]	Noun				
+大学院	graduate school	大学院[だいがくいん]	Noun				
+砂糖	sugar	砂糖[さとう]	Noun				
+番組	program (e.g. TV), programme	番組[ばんぐみ]	Noun				
+始める	to start, to begin, to commence, to initiate, to originate	始[はじ]める	Ichidan verb, Transitive verb	to start up (a business, society, etc.), to open (e.g. a store), to establish; to start ..., to begin to ...			
+以上	not less than, ... and over, ... and above, ... and upwards, ... or more	以上[いじょう]	Noun, Adverb 	beyond (e.g. one's expectations), above, more than, further than; above-mentioned, aforementioned, foregoing; since ..., seeing that ..., now that ..., once ...; that's all, that is the end, the end			
+笑う	to laugh	笑[わら]う	Godan verb with u ending, Intransitive verb	to smile; to sneer, to ridicule; to be dumbfounded, to be flabbergasted			
+待合室	waiting room	待合室[まちあいしつ]	Noun				
+返事	reply, answer, response	返事[へんじ]	Noun, Suru verb, Intransitive verb				
+運ぶ	to carry, to transport, to move, to convey	運[はこ]ぶ	Godan verb with bu ending, Transitive verb	to come, to go; to wield (a tool, etc.), to use; to go (well, etc.), to proceed, to progress			
+安全	safety, security	安全[あんぜん]	Noun, Na-adjective 				
+方針	policy, course, plan (of action), principle	方針[ほうしん]	Noun	magnetic needle			
+以下	not exceeding, and downward, ... and below	以下[いか]	Noun	below (e.g. standard), under (e.g. a level); the below-mentioned, the following, the rest			
+両方	both, both sides, both parties	両方[りょうほう]	Noun, Noun which may take the genitive case particle 'no'				
+不運	misfortune, bad luck, ill luck, ill fortune	不運[ふうん]	Noun, Na-adjective 				
+屋上	rooftop	屋上[おくじょう]	Noun				
+教養	cultivation, refinement, culture, education	教養[きょうよう]	Noun, Suru verb, Noun which may take the genitive case particle 'no'				
+動く	to move, to stir, to shift, to shake, to swing	動[うご]く	Godan verb with ku ending, Intransitive verb	to operate, to run, to go, to work; to make a move, to take action, to act, to go into action; to be touched, to be influenced; to change, to vary, to fluctuate, to waver; to be transferred			
+困る	(lost, confused sense) to be troubled, to have difficulty, to be in a fix, to be at a loss, to be stumped, to be embarrassed	困[こま]る	Godan verb with ru ending, Intransitive verb	to be bothered, to be inconvenienced, to be annoyed; to be badly off, to be hard up, to be in straitened circumstances			
+始まる	to begin, to start, to commence	始[はじ]まる	Godan verb with ru ending, Intransitive verb	to happen (again), to begin (anew); to date (from), to originate (in)			
+親	parent, parents, mother and father	親[おや]	Noun	dealer (in cards, mahjong, etc.), banker; founder, inventor; (pet) owner; key, parent (organization), main; ancestor, forefather			
+屋外	outdoors, outside	屋外[おくがい]	Noun, Noun which may take the genitive case particle 'no'				
+教科書	textbook, coursebook, schoolbook	教科書[きょうかしょ]	Noun				
+開く	to open (e.g. doors) (open that results in empty space)	開[あ]く	Godan verb with ku ending, Intransitive verb	to open (e.g. business, etc.); to be empty; to be vacant, to be available, to be free; to be open (e.g. neckline, etc.); to have been opened (of one's eyes, mouth, etc.); to come to an end; to open (one's eyes, mouth, etc.); to have a hole, to form a gap, to have an interval (between events)			
+奨学金	scholarship, stipend, bursary (pronounced しょうがっきん)	奨学金[しょうがくきん]	Noun	student loan			
+運動	exercise, physical training, workout, sports, athletics	運動[うんどう]	Noun, Suru verb, Intransitive verb	appeal, campaign, drive, crusade, movement, lobbying; motion, movement			
+訳す	to translate, to interpret	訳[やく]す	Godan verb with su ending, Transitive verb				
+世代	generation, the world, the age	世代[せだい]	Noun, Noun which may take the genitive case particle 'no'				
+開放	opening (a door, window, etc.), leaving open	開放[かいほう]	Noun, Suru verb, Transitive verb	opening up (e.g. to the public), allowing (public) access			
+週間	week	週間[しゅうかん]	Noun				
+幸運	good luck, fortune	幸運[こううん]	Noun, Na-adjective 				
+運賃	(passenger) fare	運賃[うんちん]	Noun	freight rates, shipping expenses			
+感動	being deeply moved emotionally, excitement, passion, inspiration, deep emotion, strong impression	感動[かんどう]する	Noun, Suru verb, Intransitive verb				
+始発	first departure (of the day), first train, first bus	始発[しはつ]	Noun	departing one's home station (of a train, bus, etc.)			
+動かす	to move, to shift, to stir, to budge, to change position (transitive)	動[うご]かす	Godan verb with su ending, Transitive verb	to inspire, to rouse, to move (e.g. feeling), to influence; to change, to alter, to deny; to operate, to set in motion, to get going; to mobilize (e.g. troops), to mobilise, to deploy; to manage (e.g. funds)			
+落ち込む	to feel down, to feel sad, to be depressed, to be in low spirits	落[お]ち 込[こ]む	Godan verb with mu ending, Intransitive verb	to be in a slump (business, economy, etc.), to be in an unfavourable condition; to fall into (e.g. a hole)			
+動詞	verb	動詞[どうし]	Noun				
+案内	guidance, leading (the way), showing around	案内[あんない]する	Noun, Suru verb	information, notice, notification; announcement (of one's arrival); invitation; acquaintance, knowledge			
+以前	ago, since, before, previous	以前[いぜん]	Noun, Adverb 				
+方法	method, process, manner, way, means, technique	方法[ほうほう]	Noun				
+世話	care, looking after, help, assistance, aid	世話[せわ]	Noun, Suru verb, Transitive verb	trouble, bother; good offices, recommendation, introduction; everyday life, everyday affairs, everyday language; sewamono (Edo-period drama about contemporary life)			
+完全	perfect, complete	完全[かんぜん]	Na-adjective , Noun which may take the genitive case particle 'no', Noun				
+提供	offer, tender, providing, supplying, making available, donating (blood, organs, etc.)	提供[ていきょう]	Noun, Suru verb	sponsoring (a TV program)			
+教わる	to be taught, to learn, to take lessons in	教[おそ]わる	Godan verb with ru ending, Transitive verb				
+移動	movement, transfer, migration, removal, travel	移動[いどう]する	Noun, Suru verb, Transitive verb, Intransitive verb	mobile, moving, traveling, travelling, roving			
+限界	limit, bound	限界[げんかい]	Noun, Noun which may take the genitive case particle 'no'				
+全国	the whole country	全国[ぜんこく]	Noun				
+味方	friend, ally, supporter	味方[みかた]	Noun, Noun which may take the genitive case particle 'no'	taking sides with, supporting, standing by, backing up			
+世の中	society, the world, the times	世[よ]の 中[なか]	Expressions , Noun				
+描写	depiction, description, portrayal	描写[びょうしゃ]	Noun, Suru verb, Transitive verb				
+不動産	real estate	不動産[ふどうさん]	Noun				
+開始	start, commencement, beginning, initiation	開始[かいし]	Noun, Suru verb, Transitive verb, Intransitive verb				
+親戚	relative, relation, kin	親戚[しんせき]	Noun				
+屋敷	residence, estate, grounds, premises, mansion	屋敷[やしき]	Noun				
+週末	weekend	週末[しゅうまつ]	Adverb , Noun				
+参考	reference, consultation	参考[さんこう]	Noun, Noun which may take the genitive case particle 'no'				
+全く	really, truly, entirely, completely, wholly, perfectly	全[まった]く	Adverb , Noun which may take the genitive case particle 'no'	indeed; good grief			
+写生	sketching, drawing from nature, portrayal, description	写生[しゃせい]	Noun, Suru verb, Transitive verb				
+朝寝坊	oversleeping, late riser	朝寝坊[あさねぼう]する	Noun, Suru verb, Intransitive verb				
+ファイル	file	ファイル	Noun, Suru verb				
+編む	to knit, to plait, to braid	編[あ]む	Godan verb with mu ending, Transitive verb	to compile (anthology, dictionary, etc.), to edit			
+視界	field of vision, visibility, view, visual field, (one's) ken	視界[しかい]	Noun				
+考古学	archaeology, archeology	考古学[こうこがく]	Noun, Noun which may take the genitive case particle 'no'				
+公開	opening to the public, making available to the public, exhibiting, unveiling, release (of a film, information, etc.), disclosure, publication	公開[こうかい]	Noun, Suru verb, Transitive verb, Noun which may take the genitive case particle 'no'				
+屋内	indoor (court, pool, etc.)	屋内[おくない]	Noun, Noun which may take the genitive case particle 'no'				
+お供	attendant, companion, to keep company	お 供[とも]する	Noun, Suru verb				
+供える	to offer (e.g. to a spirit), to sacrifice, to dedicate Not 提供	供[そな]える	Ichidan verb, Transitive verb				
+乗り遅れる	to miss (a train, bus, etc.)	乗[の]り 遅[おく]れる	Ichidan verb, Intransitive verb	to fail to keep up with (e.g. the times), to be left behind by			
+学界	academic world, academia, academic circles, scientific world, learned circles	学界[がっかい]	Noun				
+三世	さんせい	三世	The third generation				
+政界	せいかい	政界	the political world				
+開く (2nd reading)	ひらく	開く (2nd reading)	to open (unfolding sense, 3d sense)				
+魚屋	さかなや	魚屋	fish shop				
+運命	うんめい	運命	fate				
+運がいい	うんがいい	運がいい	lucky				
+キリスト教	きりすときょう	キリスト教	christianity				
+開閉する	to open and close	開閉[かいへい]する					
+駅員	train station assistant	駅員[えきいん]					
+期末試験	final exam	期末試験[きまつしけん]					
+推薦状	letter of recommendation	推薦状[すいせんじょう]					
+直す	to fix	直す[なおす]					
+道に迷う	to become lost	道[みち]に迷[まよ]う					
+迎えに行く	to go pick up (e.g. a person)	迎[むか]えに行[い]く					
+アイロンをかける	to iron (clothes)	アイロンをかける					
+今日中に	by the end of today	今日中[きょうじゅう]に					
+授業中に	during class	授業中[じゅぎょうちゅう]に					
+what is the usage differences between てくれる vs てあげる	くれる: for me or someone close to me (others do something for me/you) あげる: for somebody other than me (I do something for you, for others)						
+What are the three ways to make a request?	て form +  いただけませんか (polite) くれませんか くれない？ (casual)						
+"How do you express ""hoping that something good happens"" (outside of control)? (2)"	(short, present (usu. dict, potential or nai form)) + といいですね(formal, for you/them) といいね (casual, for you/them) といいんですが (formal, for myself) といいんだけど (casual, for myself)						
+運動靴	sneakers Not スニーカー	運動靴[うんどうぐつ]					
+準備運動	warmup exercises	準備運動[じゅんびうんどう]					
+他界する	to pass away	他界[たかい]する					
+試供品	sample	試供品[しきょうひん]					
+What is the sentence structure for apologising for something	verb て form + すみませんでした 遅刻してすみませんでした						
+Describe the conjugation for the below use cases of 時 Verb (present) Verb (continuous) Verb (past)	辞書形 + 時 ている＋時 た形 + 時						

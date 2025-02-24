@@ -1,0 +1,124 @@
+#separator:tab
+#html:false
+先ず	first (of all), firstly, to begin with, before anything else	まず	Adverb 	probably, most likely, almost certainly, virtually; more or less (satisfactory), on the whole, reasonably; anyway, at any rate, for now (at least), for the time being						
+蝋燭	candle	ろうそく	Noun							
+産業	industry	産業[さんぎょう]	Noun, Noun which may take the genitive case particle 'no'	livelihood, occupation						
+東洋	the East, the Orient, (East) Asia	東洋[とうよう]	Noun	Japan						
+問題	question (e.g. on a test), problem	問題[もんだい]	Noun	problem (e.g. societal, political), question, issue, subject (e.g. of research), case, matter; question (i.e. doubt); public discussion, controversy; trouble, problem, inconvenience, difficulty						
+宿題	homework, assignment	宿題[しゅくだい]	Noun	pending issue, unresolved problem, open question						
+和服	Japanese clothes	和服[わふく]	Noun							
+授業	lesson, class work, teaching, instruction	授業[じゅぎょう]	Noun, Suru verb, Intransitive verb							
+図書館	library	図書館[としょかん]	Noun							
+日記	diary, journal	日記[にっき]	Noun							
+地図	map	地図[ちず]	Noun							
+旅館	ryokan, traditional inn, Japanese-style lodging, usu. professionally-run	旅館[りょかん]	Noun							
+冷蔵庫	refrigerator, fridge	冷蔵庫[れいぞうこ]	Noun							
+映画館	movie theatre, movie theater, cinema	映画館[えいがかん]	Noun							
+食堂	dining room, dining hall, cafeteria, canteen, messroom	食堂[しょくどう]	Noun	restaurant, eatery, snack bar, diner						
+大使館	embassy	大使館[たいしかん]	Noun							
+外	outside, exterior	外[そと]	Noun	the open (air); other place, somewhere else, outside one's group (family, company, etc.)						
+落ちる	to fall down, to drop, to fall (e.g. rain), to sink (e.g. sun or moon), to fall onto (e.g. light or one's gaze), to be used in a certain place (e.g. money)	落[お]ちる	Ichidan verb, Intransitive verb	to be omitted, to be missing; to decrease, to sink; to fail (e.g. exam or class), to lose (contest, election, etc.); to crash, to degenerate, to degrade, to fall behind; to become indecent (of a conversation); to be ruined, to go under; to fade, to come out (e.g. a stain), to come off (e.g. makeup), to be removed (e.g. illness, possessing spirit, name on a list); to fall (into someone's hands), to become someone's possession; to fall (into a trap), to fall (for a trick); to give in, to give up, to confess, to flee; to fall, to be defeated, to surrender; to come to (in the end), to end in; to fall (in love, asleep, etc.); to swoon (judo); to consent, to understand; to go down (of a website, server, etc.), to crash; to log out (of an online game, chat room, etc.), to drop out, to leave, to go offline; to die; to move to the depths						
+無理	unreasonable, unnatural, unjustifiable	無理[むり]	Na-adjective , Noun	impossible; forcible, forced, compulsory; excessive (work, etc.), immoderate; to work too hard, to try too hard; no way, not a chance, never, dream on; irrational						
+落とす	to drop, to lose, to let fall, to shed (light), to cast (one's gaze), to pour in (liquid), to leave behind	落[お]とす	Godan verb with su ending, Transitive verb	to clean off (dirt, makeup, paint, etc.), to remove (e.g. stains or facial hair), to lose, to spend money at a certain place, to omit, to leave out, to secretly let escape; to lose (a match), to reject (an applicant), to fail (a course), to defeat (in an election); to lower (e.g. shoulders or voice), to lessen (e.g. production or body weight), to worsen (quality), to reduce (e.g. rank or popularity), to speak badly of, to make light of, to fall into straitened circumstances; to fall into (e.g. a dilemma or sin), to make one's own, to have one's bid accepted, to force surrender, to take (e.g. an enemy camp or castle), to forcefully convince, to press for a confession, to deal with; to download, to copy from a computer to another medium; to make someone swoon (judo); to finish a story (e.g. with the punch line); to finish (a period, e.g. of fasting); to win over, to seduce, to conquer (unwillingness)						
+壊れる	to be broken, to break, (something) breaks	壊[こわ]れる	Ichidan verb, Intransitive verb	to fall through, to come to nothing						
+壊す	to break, to destroy, to demolish	壊[こわ]す	Godan verb with su ending, Transitive verb	to wreck, to ruin, to spoil, to damage; to break (a bill, etc.)						
+頼む	to request, to beg, to ask	頼[たの]む	Godan verb with mu ending, Transitive verb	to call, to order, to reserve; to entrust to; to rely on; please, please do						
+大切	important, significant, serious, crucial	大切[たいせつ]	Na-adjective 	precious, valuable, dear, cherished, beloved; careful						
+虫	insect, bug, cricket, moth	虫[むし]	Noun	worm, roundworm; (one's) unconscious, thing inside one's body that stirs one's feelings and thoughts; nervousness, fretfulness; person devoted to one thing, single-minded person; valve core; mushi (type of game played with a stripped deck)						
+明るい	light, well-lit, well-lighted	明[あか]るい	I-adjective 	bright (of a colour), brightly-coloured, brightly-colored; cheerful, bright, spirited, sunny (e.g. disposition); encouraging (for the future of a project, etc.), promising, of fair prospects; familiar (with), knowledgeable (about), well versed (in); fair (e.g. politics), clean, impartial						
+押す	to push, to press	押[お]す	Godan verb with su ending, Transitive verb	to apply pressure from above, to press down; to stamp (i.e. a passport), to apply a seal; to affix (e.g. gold leaf); to press (someone for something), to urge, to compel, to influence; to overwhelm, to overpower, to repress; to push (events along), to advance (a plan); to do in spite of ..., to do even though ..., to force; to make sure; to be pressed for time; to advance troops, to attack; (of light) to be diffused across an entire surface						
+下宿	boarding house, lodging, board and lodging, room and board	下宿[げしゅく]	Noun, Suru verb	boarding house, lodging house, lodgings						
+夕方	evening, dusk	夕方[ゆうがた]	Noun, Adverb 							
+洋服	Western-style clothes (cf. traditional Japanese clothes)	洋服[ようふく]	Noun							
+恥ずかしい	embarrassing, embarrassed, ashamed, humiliated, shy	恥[は]ずかしい	I-adjective 	disgraceful, shameful						
+片付ける	to tidy up, to put in order, to straighten up, to put away	片付[かたづ]ける	Ichidan verb, Transitive verb	to settle (problem), to clear (dispute); to finish, to bring something to an end; to marry off (e.g. a daughter); to do away with someone, to bump someone off						
+謝る	to apologize, to apologise	謝[あやま]る	Godan verb with ru ending							
+貸す	to lend, to loan	貸[か]す	Godan verb with su ending, Transitive verb	to rent out, to hire out						
+暗い	dark, gloomy, murky	暗[くら]い	I-adjective 	depressed, dispirited, down in the dumps, dark (mood); dark (in colour), dull; ill-boding, dark (e.g. past), suspicious; unlikely (to succeed), hopeless, unpromising; unfamiliar (with), ignorant (of)						
+消える	to disappear, to vanish, to go out of sight, to go away, to become lost	消[き]える	Ichidan verb, Intransitive verb	to go out (of a fire, light, etc.), to die, to turn off (e.g. of a TV screen); to fade (of a feeling, impression, etc.), to vanish (e.g. of hope); to go away (e.g. of a smell, itchiness, sleepiness), to disappear, to fade away (e.g. of footsteps); to wear away (e.g. of an inscription), to rub out (of writing), to fade (e.g. of ink); to be lost (e.g. of a tradition), to die out, to disappear						
+未満	less than, under, below	未満[みまん]	Noun, used as a suffix, Noun, Adverb 							
+閉まる	to be shut, to close, to be closed	閉[し]まる	Godan verb with ru ending, Intransitive verb	to be firm (of a body, face, etc.), to be well-knit; to be locked; to tighten, to be tightened; to become sober, to become tense						
+咲く	to bloom, to flower, to blossom, to open	咲[さ]く	Godan verb with ku ending, Intransitive verb							
+カーテン	curtain, curtains	カーテン	Noun							
+合図	sign, signal, cue	合図[あいず]	Noun, Suru verb, Transitive verb							
+汚れる	to get dirty, to become dirty	汚[よご]れる	Ichidan verb, Intransitive verb	to become sullied, to become corrupted, to lose one's chastity						
+話題	topic, subject	話題[わだい]	Noun	much talked about, topical, in the news, hot						
+スカート	skirt	スカート	Noun							
+醤油	soy sauce, shoyu	醤油[しょうゆ]	Noun							
+後	behind, rear	後[あと]	Noun, Noun which may take the genitive case particle 'no'	after, later; remainder, the rest; more (e.g. five more minutes), left; also, in addition; descendant, successor, heir; after one's death; past, previous						
+終点	terminus, last stop (e.g. train)	終点[しゅうてん]	Noun							
+経験	experience	経験[けいけん]	Noun, Suru verb, Transitive verb							
+助かる	to be saved, to be rescued, to survive	助[たす]かる	Godan verb with ru ending, Intransitive verb	to escape harm, to be spared damage; to be helped, to be saved trouble						
+収入	income, receipts, revenue	収入[しゅうにゅう]	Noun							
+実験	experiment, experimentation	実験[じっけん]	Noun, Suru verb, Transitive verb							
+教授	professor	教授[きょうじゅ]	Noun	teaching, instruction						
+制服	uniform	制服[せいふく]	Noun							
+職業	occupation, profession, job, vocation, trade, calling, business	職業[しょくぎょう]	Noun							
+売り切れる	to be sold out	売[う]り 切[き]れる	Ichidan verb, Intransitive verb							
+貸し出し	lending, loaning Not 貸す	貸[か]し 出[だ]し	Noun, Suru verb							
+最終~	last, final, closing	最終[さいしゅう]	Noun which may take the genitive case particle 'no', Noun	last train (bus, flight, etc.; of the day)						
+図る	to plan, to attempt (aim towards a goal), to devise	図[はか]る	Godan verb with ru ending, Transitive verb	to plot, to conspire, to scheme; to aim for, to strive for, to work towards, to seek; to deceive, to trick, to take in						
+桜	cherry tree, cherry blossom	桜[さくら]	Noun	fake buyer, paid audience, shill, seat filler; hired applauder; horse meat						
+協力	cooperation, collaboration, help, support	協力[きょうりょく]	Noun, Suru verb, Intransitive verb							
+努力	effort, exertion, endeavour, endeavor, hard work, striving	努力[どりょく]	Noun, Suru verb, Intransitive verb							
+目的	purpose, goal, aim, objective, intention	目的[もくてき]	Noun							
+汚す	to pollute, to contaminate, to soil, to make dirty, to stain	汚[よご]す	Godan verb with su ending, Transitive verb	to disgrace, to dishonour, to dishonor, to defile						
+大西洋	Atlantic Ocean	大西洋[たいせいよう]	Noun							
+スイッチ	switch	スイッチ	Noun, Suru verb							
+転ぶ	to fall down, to fall over Not 倒す	転[ころ]ぶ	Godan verb with bu ending, Intransitive verb	to turn out, to play out; to abandon Christianity (and convert to Buddhism), to apostatize; to roll, to tumble; (for a geisha) to prostitute (herself) in secret						
+洋食	Western food, Western dish, Western cooking	洋食[ようしょく]	Noun	Japanized Western cuisine						
+スープ	(Western) soup	スープ	Noun							
+ソファ	sofa, couch	ソファ	Noun							
+試みる	to try, to attempt, to have a go (at something)	試[こころ]みる	Ichidan verb, Transitive verb							
+図	figure, drawing, picture, diagram, illustration, chart, graph	図[ず]	Noun, Noun, used as a suffix	sight, scene						
+宿	lodging, inn, hotel	宿[やど]	Noun	house, home, dwelling; home of a servant's parents (or guarantor, etc.)						
+題	title, subject, theme, topic	題[だい]	Noun	problem (on a test), question; counter for questions (on a test)						
+タオル	towel	タオル	Noun							
+授かる	to grant, to give, to confer, to award	授[さず]かる	Ichidan verb, Transitive verb	to teach, to instruct, to impart (knowledge)						
+入試	entrance examination	入試[にゅうし]	Noun							
+目薬	eye drops, eyewash	目薬[めぐすり]	Noun							
+携帯電話	mobile telephone, cellular telephone	携帯電話[けいたいでんわ]	Noun							
+現代的	modernistic	現代的[げんだいてき]	Na-adjective 							
+公会堂	town hall, public hall	公会堂[こうかいどう]	Noun							
+今すぐ	at once, immediately, right now	今[いま]すぐ	Adverb 							
+バナナ	banana	バナナ	Noun							
+シャンプー	shampoo	シャンプー	Noun, Suru verb, Intransitive verb, Transitive verb							
+サービス業	service industry, service sector	サービス 業[ぎょう]	Noun							
+ポップコーン	popcorn	ポップコーン								
+注文する	to place an order	注文する[ちゅうもんする]								
+〜までに	by (time/date)	〜までに								
+(ん)だろう	short form of (ん)でしょう (probably...)	(ん)だろう								
+お疲れ様でした	good work (between friends and coworkers)	お疲れ様でした[おつかれさまでした]								
+what is the difference between transitive and intransitive verbs?	transitive is where someone acts on an object (e.g. I open the door) intransitive is where the verb describes changes that objects and people undergo (e.g. the door opens)									
+2305b21c8b2643429725a79947eb2aac-ao-1										
+2305b21c8b2643429725a79947eb2aac-ao-2										
+2305b21c8b2643429725a79947eb2aac-ao-3										
+2305b21c8b2643429725a79947eb2aac-ao-4										
+2305b21c8b2643429725a79947eb2aac-ao-5										
+2305b21c8b2643429725a79947eb2aac-ao-6										
+2305b21c8b2643429725a79947eb2aac-ao-7										
+2305b21c8b2643429725a79947eb2aac-ao-8										
+2305b21c8b2643429725a79947eb2aac-ao-9										
+2305b21c8b2643429725a79947eb2aac-ao-10										
+Adding ている to transitive and intransitive verbs, what meaning is produced?	transitive: describes an action in progress (e.g. 窓を開けています (opening a window)) intransitive: describes states that hold true after a change takes place (e.g. 窓を開いています (The windows are open))									
+目上の人	One's superiors Not 上位	目上の人[めうえのひと]								
+堂々とした	dignified, imposing	堂々とした[どうどうとした]								
+力仕事	physical labor (e.g. construction)	力仕事[ちからしごと]								
+力士	sumo wrestler	力士[りきし]								
+賃貸マンション	rental condo	賃貸[ちんたい]マンション								
+what is the two meanings of ~てしまう？	1. action is done with determination (to completion) e.g. 本を読んでしまいました。 2. lack of premediation/control over how things turned out (with a sense of regret/unintention). e.g. 電車の中でかばんを忘れてしまいました。									
+what is てしまう usually contracted to?	てしまう＞ちゃう でしまう＞じゃう									
+sentence structure for when describing when A happens, b happens too	clause A と clause B									
+describing two actions that occur at the same time	verb (stem) + ながら + verb 2 e.g. 音楽を聞きながら掃除します。									
+"describing ""I wish I had/should have done something"" (both affirmative and negative forms)"	〜ばよかった 〜なければよかった									
+what does 〜ばよかった and 〜なければよかった mean?	I wish I had done, I wish I had not done									
+changing to ば form	う(ごだん) verbs い＞え, add ば e.g. 買えば  る（いちだん）verbs add れば e.g. たべれば  irregular: する＞すれば くる＞くれば									
+negative version of ば form	ない形 (drop い), add ければ e.g. 食べなければ しなければ									
+t/f intransitive verbs can take the particle を	False									
+Conjugation for と conditional (verb, i-adj, na-adj, noun)	辞書形＋と い形＋と な形　な becomes だ＋と noun + だ+ と									
+become なるwith adjectives	い becomes くなる e.g. 遅くなる  な becomes になる e.g. 綺麗になる									
+when is the と conditional usually used?	"When ""If A then B"" is ALMOST ALWAYS the case."									
+t/f can you use ながら to describe two people doing things at the same time?	no. both actions in ながら must be performed by the same person.									
+"Given A ながらB Which action is the ""main action""?"	B									
+What is the idea around ば conditional?	When given a decision between two things (e.g. A and NOT A), choose one of the two. These mostly apply to things that are in your control.  e.g. The decision between dropping the pen, and holding the pen.									
+そのｖｓあの	あの far from speaker and listener その closer to the listener In conversation: あーWhen both people know the subject そーwhen only one know the subject									
